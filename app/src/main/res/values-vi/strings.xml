@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Company</string>
+    <string name="title">Xin chào</string>
+
+    <string name="rate_5_stars">Đánh giá 5 sao nào</string>
+    <string name="send_feedback">Gửi phản hồi</string>
+    <string name="share_app">Chia sẻ ứng dụng</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="device_language">Ngôn ngữ hệ thống</string>
+    <string name="faq">FAQ</string>
+    <string name="quit">Thoát</string>
+
+    <string name="open_drawer">Mở thanh vẽ</string>
+    <string name="close_drawer">Đóng thanh vẽ</string>
+    <string name="choose_email_title">Gửi mail&#8230;</string>
+    <string name="share_app_title">Chia sẻ ứng dụng đến&#8230;</string>
+
+    <string name="perfume">Nước hoa</string>
+    <string name="perfume_1">Nước hoa 1</string>
+    <string name="perfume_2">Nước hoa 2</string>
+    <string name="perfume_3">Nước hoa 3</string>
+    <string name="perfume_description">Nước hoa</string>
+    <string name="perfume_1_description">Nước hoa 1</string>
+    <string name="perfume_2_description">Nước hoa 2</string>
+    <string name="perfume_3_description">Nước hoa 3</string>
+
+    <string name="iphone">Iphone</string>
+    <string name="iphone_6">Iphone 6</string>
+    <string name="iphone_7">Iphone 7</string>
+    <string name="iphone_8">Iphone 8</string>
+    <string name="iphone_9">Iphone 9</string>
+    <string name="iphone_description">Iphone</string>
+    <string name="iphone_6_description">Iphone 6</string>
+    <string name="iphone_7_description">Iphone 7</string>
+    <string name="iphone_8_description">Iphone 8</string>
+
+
+
+
+</resources>

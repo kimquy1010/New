@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Company</string>
+    <string name="title">Hello</string>
+    <string name="default_notification_channel_name" translatable="true">News</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+
+    <string name="rate_5_stars">Rate 5 stars</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="location">Magazine\'s address</string>
+    <string name="share_app">Share app</string>
+    <string name="language">Language</string>
+    <string name="device_language">Device Language</string>
+    <string name="faq">FAQ</string>
+    <string name="quit">Quit</string>
+
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="choose_email_title">Send mail&#8230;</string>
+    <string name="share_app_title">Share app to&#8230;</string>
+
+    <string name="perfume">Perfume</string>
+    <string name="perfume_1">Perfume 1</string>
+    <string name="perfume_2">Perfume 2</string>
+    <string name="perfume_3">Perfume 3</string>
+    <string name="perfume_description">Perfume</string>
+    <string name="perfume_1_description">Perfume 1.....\nSay some thing...\nsome thing more</string>
+    <string name="perfume_2_description">Perfume 2.....\nSay some thing...\nsome thing more</string>
+    <string name="perfume_3_description">Perfume 3.....\nSay some thing...\nsome thing more</string>
+
+    <string name="iphone">Iphone</string>
+    <string name="iphone_6">Iphone 6</string>
+    <string name="iphone_7">Iphone 7</string>
+    <string name="iphone_8">Iphone 8</string>
+    <string name="iphone_9">Iphone 9</string>
+    <string name="iphone_description">Iphone</string>
+    <string name="iphone_6_description">Iphone 6.....\nSay some thing...\nsome thing more</string>
+    <string name="iphone_7_description">Iphone 7.....\nSay some thing...\nsome thing more</string>
+    <string name="iphone_8_description">Iphone 8.....\nSay some thing...\nsome thing more</string>
+
+
+    <string name="new_production_1">Perfume 1&#8230;</string>
+    <string name="new_production_2">Perfume 2&#8230;</string>
+    <string name="new_production_3">Perfume 3&#8230;</string>
+
+    <string name="dialog_update_app">New update are available. Please update now for get latest production of store</string>
+    <string name="location_permission_denied">This application requires location permission to show list of shop.</string>
+    <string name="permission_required_toast">Location permission is required for this application.</string>
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="toast_error_get_internet_connection">No internet</string>
+
+    <string name="amount">Amount</string>
+    <string name="price">Price</string>
+    <string name="stock">Stock: </string>
+    <string name="null_stock">Out of stock</string>
+    <string name="address">Address</string>
+    <string name="list_of_magazine_address">Magazine address</string>
+</resources>

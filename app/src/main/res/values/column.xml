@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="id_production">id_production</string>
+    <string name="name_production">name_production</string>
+    <string name="image_production">image_production</string>
+    <string name="price_production">price_production</string>
+    <string name="description_production">description_production</string>
+
+    <string name="id_category">id_category</string>
+    <string name="name_category">name_category</string>
+    <string name="image_category">image_category</string>
+
+    <string name="id_magazine">id_magazine</string>
+    <string name="name_magazine">name_magazine</string>
+    <string name="address_magazine">address_magazine</string>
+    <string name="image_magazine">image_magazine</string>
+
+</resources>

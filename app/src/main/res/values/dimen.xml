@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="icon_adapter_width">20dp</dimen>
+    <dimen name="icon_adapter_height">20dp</dimen>
+    <dimen name="margin_start">16dp</dimen>
+    <dimen name="height_list_item">100dp</dimen>
+    <dimen name="icon_tab_width">16dp</dimen>
+    <dimen name="icon_tab_height">16dp</dimen>
+
+    <dimen name="width_list_item_dialog">80dp</dimen>
+    <dimen name="height_list_item_dialog">80dp</dimen>
+</resources>

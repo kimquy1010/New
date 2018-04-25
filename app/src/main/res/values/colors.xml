@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="primary">#212121</color>
+    <color name="primary_dark">#202020</color>
+    <color name="primary_bg">#282828</color>
+    <color name="primary_bg_dark">#222222</color>
+    <color name="primary_accent">#80CBC4</color>
+    <color name="white">#FFFFFF</color>
+    <color name="translution">#00ffffff</color>
+    <color name="bg_tab_layout">#509E9E9E</color>
+    <color name="dark">#212121</color>
+    <color name="grey">#9E9E9E</color>
+    <color name="black">#212121</color>
+</resources>

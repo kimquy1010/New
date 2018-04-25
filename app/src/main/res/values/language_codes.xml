@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <string-array name="language_codes">
+        <item>device</item>
+        <item>vi</item>
+    </string-array>
+    <string-array name="translator">
+        <item>Device</item>
+        <!--vietnam-->
+        <item>TOP, Hồng Nhung</item>
+    </string-array>
+
+</resources>
